@@ -42,4 +42,4 @@ To benchmark PANet, we compared it against the Silhouette and  Elbow. While heur
 
 ## Run
 
-You can run [PANet model](./model.py), using [pre-trained weights](./PANet.pt) right now. And we also offer the [Conda enviroment file](./enviroment.yml).
+You can run [PANet model](./model.py), using [pre-trained weights](./PANet.pt) right now. And we also offer the [Conda enviroment file](./environment.yml).
