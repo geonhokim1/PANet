@@ -19,3 +19,9 @@ X_train.npy (800, 500, 2), X_valid.npy (100, 500, 2), X_test.npy (100, 500, 2): 
 y_train.npy (800, 500, 6), y_valid.npy (100, 500, 6), y_test.npy (100, 500, 6): the number of clusters / one-hot encoding
 
 y_train_clustering.npy (800, 500, 2), y_valid_clustering.npy (100, 500, 2), y_test_clustering.npy (100, 500, 2): clustering label for each point
+
+## Result
+![PANet Accuracy](images/accuracy_table.png)
+
+![PANet Heatmap](images/compare_heatmap.png)
+
